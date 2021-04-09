@@ -1,5 +1,9 @@
 # Created by https://www.gitignore.io/api/vim,python
 
+#untrack data and tools
+NMT/data/*
+NMT/tools/*
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
